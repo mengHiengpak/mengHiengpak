@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋 I'm Pak Menghieng
 
-<!--
-**mengHiengpak/mengHiengpak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+🌍 From Cambodia  
+🚀 I love building web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,ts" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mengHiengpak&show_icons=true&theme=radical" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+<p>
+  <img src="https://streak-stats.demolab.com?user=mengHiengpak&theme=radical" />
+</p>
+
+---
+
+## 📫 Contact Me
+- 📧 Email: menghiengpak096@gmail.com
+- 🌐 Facebook: https://www.facebook.com/Mengheng.pak/
