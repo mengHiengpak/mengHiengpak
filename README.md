@@ -1,54 +1,22 @@
 # Hi 👋 I'm Pak Menghieng
 
-💻 Full Stack Developer  
-🌍 From Cambodia  
-🚀 I love building web applications  
+💻 Full Stack Developer passionate about building modern web applications  
+🌍 Based in Cambodia and always eager to learn new technologies  
+🚀 I enjoy turning ideas into real-world digital products  
 
 ---
 
-## 🚀 Skills
-
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,js,ts" />
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-</p>
-
-### 🛠️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mengHiengpak&show_icons=true&theme=radical" />
-</p>
-
----
-
-## 🔥 Streak Stats
-<p>
-  <img src="https://streak-stats.demolab.com?user=mengHiengpak&theme=radical" />
-</p>
+💻 I develop scalable applications using C++, C#, JavaScript, and TypeScript  
+⚛️ I build interactive user interfaces with React.js and Next.js  
+🎨 I create responsive and modern designs using HTML, CSS, and Tailwind CSS  
+⚙️ I design and develop backend systems with Node.js and Express.js  
+🗄️ I work with databases like MongoDB and PostgreSQL for efficient data management  
+🔗 I build full-stack projects by connecting frontend, backend, and databases seamlessly  
+🛠️ I use Git and GitHub for version control and team collaboration  
+📚 I am continuously learning and improving my skills as a developer  
 
 ---
 
 ## 📫 Contact Me
-- 📧 Email: menghiengpak096@gmail.com
-- 🌐 Facebook: https://www.facebook.com/Mengheng.pak/
+📧 Email: menghiengpak096@gmail.com  
+🌐 Facebook: https://www.facebook.com/Mengheng.pak/
